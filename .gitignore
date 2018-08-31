@@ -1,0 +1,53 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+Library/
+Temp/
+
+# Debug Temporary Files
+obj/
+
+# ====================== #
+# Unity Editor Generated #
+# ====================== #
+
+Assets/StreamingAssets/iOS*
+Assets/StreamingAssets/Android*
+Assets/StreamingAssets/Win*
+Assets/Resources/Lua*
+
+/Assets/Source/Generate/*
+!/Assets/Source/Generate/DelegateFactory.cs*
+!/Assets/Source/Generate/LuaBinder.cs*
+
+# ===================================== #
+# Visual Studio / MonoDevelop Generated #
+# ===================================== #
+
+/*.csproj
+/*.sln
+/*.userprefs
+.vs/
+
+# =============== #
+# Build Generated #
+# =============== #
+
+Builds/
+
+# ============ #
+# OS Generated #
+# ============ #
+
+.DS_Store
+
+# ================ #
+# Custom Generated #
+# ================ #
+
+/zero/*
+/AssetBundles/*
+/Assets/Resources/PrefabsInBundles*
+/MIAOKIDSMATH/*
+/miaokids/*
